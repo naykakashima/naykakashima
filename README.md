@@ -5,13 +5,13 @@ CS student @ UoD
 
 ### 📊 GitHub Stats
 
-![Kay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Kay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naykakashima&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naykakashima&layout=compact)
 
 ---
 
-### 🛠️ Tech I Work With
+### 🛠️ Most Profficient Lnguages and Frameworks
 
 #### Languages & Runtimes
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat)
