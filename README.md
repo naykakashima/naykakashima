@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Most Used Lnguages and Frameworks
+### 🛠️ My Tech Stack
 
 #### Languages & Runtimes
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat)
