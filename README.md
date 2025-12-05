@@ -8,14 +8,6 @@
 
 ---
 
-### 📈 Coding Activity 
-
-[![wakatime](https://wakatime.com/badge/user/64171197-87a0-47d8-933c-4421e351d48e.svg)](https://wakatime.com/@64171197-87a0-47d8-933c-4421e351d48e)
-
-![Wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=64171197-87a0-47d8-933c-4421e351d48e&layout=compact)
-
----
-
 ### 🛠️ My Tech Stack
 
 #### Languages & Runtimes  
