@@ -1,10 +1,4 @@
-### Hey, I’m Kay 👋  
-
----
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naykakashima&layout=compact)
+### Hey, I’m Kay 👋 
 
 ---
 
