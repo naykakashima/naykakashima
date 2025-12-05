@@ -4,7 +4,7 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naykakashima)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naykakashima&layout=compact)
 
 ---
 
